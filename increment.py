@@ -11,7 +11,7 @@ def inc2(x, n):
 
 def inc3(x):
     """Increment by a random number"""
-    n = randint(1, 50)
+    n = randint(1, 100)
     return x + n
 
 if __name__ == "__main__":
